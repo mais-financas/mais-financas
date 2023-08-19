@@ -6,7 +6,7 @@ Este documento serve como um registro cronológico das principais entregas e eve
 
 Criado o [blog](https://nnmaisfinancas.blogspot.com) da equipe a fim de registrar atividades e atualizações do projeto.
 
-[![Blog](./images/blog.png)](https://nnmaisfinancas.blogspot.com)
+[![Blog](./images/Blog.png)](https://nnmaisfinancas.blogspot.com)
 
 ## Prototipação - 19/03
 
