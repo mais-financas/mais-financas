@@ -56,5 +56,10 @@ Link do repositório: <https://github.com/mais-financas>
 
 ## Apresentação da PoC (Prova de Conceito) - 10/06
 
-- [x] Demonstração bem-sucedida da integração do chatbot das aplicações Web e Mobile.
-- [x] Validação da pipeline de Integração Contínua (CI) na API do projeto.
+- [x] [PoC-Financas-API](https://github.com/mais-financas/poc-financas-api): API da PoC, a qual será integrada às plataformas web e mobile. O Objetivo de sua aplicação na PoC é verificar o workflow de colaboração e integração contínua.
+
+- [x] [PoC-Financas-App(Mobile)](https://github.com/mais-financas/poc-financas-app): App mobile da PoC, cujo objetivo é demonstrar a integração com um Chatbot desenvolvido pela plataforma Botpress.
+
+- [x] [PoC-Financas-Web](https://github.com/mais-financas/poc-financas-web): Aplicação web da PoC para demonstração e utilização das tecnologias Next.js e TypeScript.
+
+- [x] [Chatbot](https://mediafiles.botpress.cloud/b6cf7b0a-6c47-49c4-893b-3c81b3b479dd/webchat/bot.html): Chatbot para verificar a viabilidade da plataforma Botpress, o qual será responsável por auxiliar os usuários a definirem seus objetivos financeiros.
