@@ -4,20 +4,18 @@ Bem-vindo ao repositório do projeto Finanças Pessoais! Este é um sistema de g
 
 Para a validação do projeto, foi desenvolvida uma PoC com alguns repositórios para aplicação básica de alguns conceitos:
 
-## PoC
+## [Entregas e Eventos](https://github.com/mais-financas/mais-financas/tree/main/entregas#principais-entregas-e-eventos)
 
-### [PoC-Financas-API](https://github.com/mais-financas/poc-financas-api)
+Durante o decorrer do desenvolvimento, foram produzidas diversas entregas, delimitadas pelos eventos marcantes do projeto.
 
-Refere-se à API autoral do projeto, a qual será integrada às plataformas web e mobile. O Objetivo dessa PoC é verificar o workflow de colaboração e integração contínua.
+As entregas mais relevantes para o entendimento do projeto estão disponíveis através deste [link](https://github.com/mais-financas/mais-financas/tree/main/entregas)
 
-### [PoC-Financas-App(Mobile)](https://github.com/mais-financas/poc-financas-app)
+## [PoC](https://github.com/mais-financas/mais-financas/tree/main/entregas#apresenta%C3%A7%C3%A3o-da-poc-prova-de-conceito---1006)
 
-Refere-se ao aplicativo mobile do Finanças Pessoais. O objetivo dessa PoC é demonstrar a integração com um Chatbot desenvolvido pela plataforma Botpress.
+A elaboração de uma Prova de Conceito (PoC) para esse projeto tem como intuito comprovar a aplicação dos seguintes itens para a criação do projeto de finanças.
 
-### [PoC-Financas-Web](https://github.com/mais-financas/poc-financas-web)
+- Demonstração bem-sucedida da integração do chatbot das aplicações Web e Mobile.
+- Aplicação de boas práticas de desenvolvimento através de ferramentas bem estabelecidas no mercado
+- Validação da pipeline de Integração Contínua (CI) na API do projeto.
 
-Equivalente à aplicação web do Finanças Pessoais. O objetivo dessa prova de conceito é demonstrar o uso das tecnologias Next.js e TypeScript.
-
-### [Chatbot](https://mediafiles.botpress.cloud/b6cf7b0a-6c47-49c4-893b-3c81b3b479dd/webchat/bot.html)
-
-Esse chatbot é responsável por auxiliar os usuários a definirem seus objetivos financeiros.
+Mais detalhes sobre o desenvolvimento da PoC podem ser encontrados através deste [link](https://github.com/mais-financas/mais-financas/tree/main/entregas)
