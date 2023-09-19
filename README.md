@@ -28,5 +28,5 @@ Repositório contendo o código-fonte da aplicação mobile do projeto. A instal
 
 Abaixo segue os links de referência para conhecer mais detalhes do projeto.
 
-- [Documetação Técnica](./docs/README.md)
+- [Documentação Técnica](./docs/README.md)
 - [Blog](https://nnmaisfinancas.blogspot.com)
