@@ -18,4 +18,13 @@ A elaboração de uma Prova de Conceito (PoC) para esse projeto tem como intuito
 - Aplicação de boas práticas de desenvolvimento através de ferramentas bem estabelecidas no mercado
 - Validação da pipeline de Integração Contínua (CI) na API do projeto.
 
-Mais detalhes sobre o desenvolvimento da PoC podem ser encontrados através deste [link](https://github.com/mais-financas/mais-financas/tree/main/entregas)
+Mais detalhes sobre o desenvolvimento da PoC podem ser encontrados através deste [link](https://github.com/mais-financas/mais-financas/tree/main/entregas).
+
+## [Mais Finanças App](https://github.com/mais-financas/mais-financas-app#readme)
+
+Repositório contendo o código-fonte da aplicação mobile do projeto. A instalação desse apk pode ser vista [aqui](https://github.com/mais-financas/mais-financas-app#-instalação).
+
+## Documentação
+
+- [Documetação Técnica](./docs/README.md)
+- [Blog](https://nnmaisfinancas.blogspot.com)
