@@ -16,4 +16,4 @@ O Plano de Teste descreve a estratégia de teste para o projeto, incluindo os ca
 
 ## Documentação no GitHub
 
-A documentação do projeto, contendo as principais entregas e eventos estão diponíveis através do repositório do GitHub [aqui](../README.md)
+A documentação do projeto, contendo as principais entregas e eventos estão diponíveis através do repositório do GitHub [aqui](https://github.com/mais-financas).

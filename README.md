@@ -8,7 +8,7 @@ Para a validação do projeto, foi desenvolvida uma PoC com alguns repositórios
 
 Durante o decorrer do desenvolvimento, foram produzidas diversas entregas, delimitadas pelos eventos marcantes do projeto.
 
-As entregas mais relevantes para o entendimento do projeto estão disponíveis através deste [link](https://github.com/mais-financas/mais-financas/tree/main/entregas)
+As entregas mais relevantes para o entendimento do projeto estão disponíveis através deste [link](https://github.com/mais-financas/mais-financas/tree/main/entregas).
 
 ## [PoC](https://github.com/mais-financas/mais-financas/tree/main/entregas#apresenta%C3%A7%C3%A3o-da-poc-prova-de-conceito---1006)
 
@@ -25,6 +25,8 @@ Mais detalhes sobre o desenvolvimento da PoC podem ser encontrados através dest
 Repositório contendo o código-fonte da aplicação mobile do projeto. A instalação desse apk pode ser vista [aqui](https://github.com/mais-financas/mais-financas-app#-instalação).
 
 ## Documentação
+
+Abaixo segue os links de referência para conhecer mais detalhes do projeto.
 
 - [Documetação Técnica](./docs/README.md)
 - [Blog](https://nnmaisfinancas.blogspot.com)
