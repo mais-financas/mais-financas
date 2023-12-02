@@ -63,3 +63,21 @@ Link do repositório: <https://github.com/mais-financas>
 - [x] [PoC-Financas-Web](https://github.com/mais-financas/poc-financas-web): Aplicação web da PoC para demonstração e utilização das tecnologias Next.js e TypeScript.
 
 - [x] [Chatbot](https://mediafiles.botpress.cloud/b6cf7b0a-6c47-49c4-893b-3c81b3b479dd/webchat/bot.html): Chatbot para verificar a viabilidade da plataforma Botpress, o qual será responsável por auxiliar os usuários a definirem seus objetivos financeiros.
+
+## Desenvolvimento do Projeto
+
+### [Mais Finanças App](https://github.com/mais-financas/mais-financas-app#readme)
+
+Repositório contendo o código-fonte da aplicação mobile do projeto. O aplicativo foi projetado para proporcionar melhor experiência para usuários de dispositivos Android, oferecendo melhor usabilidade e capacidade de uso offline.
+
+### [Mais Finanças API](https://github.com/mais-financas/mais-financas-api)
+
+Repositório do código-fonte da API REST do Mais Finanças. Essa API é a fornece serviços para acesso aos recursos e funcionalidades para as aplicações web e mobile, sendo responsável pela criação de novos usuários, gerenciamento das despesas e suas ocorrências, bem como o gerenciamento das receitas desses usuários.
+
+### [Mais Finanças Web](https://github.com/mais-financas/mais-financas-web)
+
+Repositório do código-fonte da aplicação web do sistema. O Mais Finanças Web é uma alternativa versátil para acessar suas finanças pessoais a partir de qualquer dispositivo com um navegador da web, sem a necessidade de instalação.
+
+## Apresentação do Produto (02/12)
+
+[![Apresentação do Sistema](./images/Apresentação%20do%20Sistema.png)](https://youtu.be/C-8CONMJar8)

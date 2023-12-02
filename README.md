@@ -32,9 +32,12 @@ Repositório do código-fonte da API REST do Mais Finanças. Essa API é a forne
 
 Repositório do código-fonte da aplicação web do sistema. O Mais Finanças Web é uma alternativa versátil para acessar suas finanças pessoais a partir de qualquer dispositivo com um navegador da web, sem a necessidade de instalação.
 
+Esse site pode ser acessado através deste [link](https://mais-financas-web.vercel.app/)
+
 ## Documentação
 
 Abaixo segue os links de referência para conhecer mais detalhes do projeto.
 
 - [Documentação Técnica](./docs/README.md)
 - [Blog](https://nnmaisfinancas.blogspot.com)
+- [Apresentação do Sistema](https://youtu.be/C-8CONMJar8)
